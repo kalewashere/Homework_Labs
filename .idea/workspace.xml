@@ -37,6 +37,7 @@
     "Python.Lab_4_vertical_name.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/tmcla/PycharmProjects/pythonProject1",
     "settings.editor.selected.configurable": "settings.sync"
   }
@@ -64,5 +65,16 @@
       <updated>1706720045640</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
