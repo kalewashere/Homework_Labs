@@ -1,5 +1,5 @@
 def greeting(name): # parameter is set in '()'
-    message = f'Hello {name}' # variables like name will appear grey until set within function.
+    message = f'Hello {name}!!!' # variables like name will appear grey until set within function.
     return message # output values by using return
 # first function def set above
 
